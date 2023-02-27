@@ -1,0 +1,27 @@
+.button{
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: 'inline-block';
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.input_box{
+    height: 2.3rem;
+    font-size: 1rem;
+    text-indent: 5px;
+    border-radius: 10px;
+    border: 2px solid #000;
+    color: #fff;
+    margin-left: 10px;
+}
+.lab_inp_div{
+    display: flex;
+    flex-direction: column;
+}
+.primary {background-color: #0083ca; color:#fff}
+.secondary {background-color: #e7e7e7; color:#000}
+.success {background-color: #4caf50 ; color: #fff}
+.danger {background-color: #f44336 ; color:  #fff}
